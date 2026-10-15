@@ -1,0 +1,6 @@
+{
+  "name": "Noor — Islamic Duas",
+  "description": "Bengali-first Islamic Dua and Hadith app with verified Quran and Sunnah supplications, Bengali translation, pronunciation, and references.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

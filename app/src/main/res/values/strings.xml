@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Noor — Islamic Duas</string>
+    <string name="app_subtitle_bn">নূর — ইসলামিক দোয়া ও আজকার</string>
+    <string name="nav_home">হোম</string>
+    <string name="nav_categories">ক্যাটাগরি</string>
+    <string name="nav_bookmarks">সংরক্ষিত</string>
+    <string name="nav_admin">অ্যাডমিন (লক)</string>
+    <string name="nav_settings">সেটিংস</string>
+    <string name="search_hint">দোয়া, উচ্চারণ, অর্থ বা হাদিস রেফারেন্স খুঁজুন…</string>
+    <string name="daily_dua_title">আজকের নির্বাচিত দোয়া</string>
+    <string name="verified_source">যাচাইকৃত রেফারেন্স</string>
+    <string name="bismillah_arabic">بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ</string>
+</resources>
